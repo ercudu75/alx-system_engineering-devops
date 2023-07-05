@@ -1,3 +1,2 @@
 #!/bin/bash
-current_list=$(ls)
-echo "$current_list"
+echo "$current_list=$(ls)"
