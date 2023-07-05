@@ -1,3 +1,6 @@
+
+![RTFM](https://github.com/ercudu75/alx-system_engineering-devops/assets/75138084/da241ffb-3894-40ed-9e5c-ce4303cfd749)
+
 so this the file 0-current working directory u will find a script will help to give the path of a certain file
 in the second file 1-listit it show u the path you're on
 in the thir file 2-bring me home u will find script that changes the working directory to the user’s home directory
