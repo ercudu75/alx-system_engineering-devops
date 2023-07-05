@@ -9,3 +9,5 @@ in the file 5 4-listmorefiles u fill find a script Display current directory con
 in the file 6  5-listfilesdigitonly u will find a script Display current directory contents numerically
 in the file 7 6-firstdirectory u will find a sa script that creates a directory in the /tmp/ directory
 in the file 8 7-movethatfile u will find a script that Move the file betty from /tmp/ to /tmp/myfirstdirectory
+in the file 9 8-firstdelete Delete the file betty from the directory /temp/my
+in the file 10 9-firstdirdeletion delete the directory /tmp
