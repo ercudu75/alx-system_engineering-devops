@@ -7,6 +7,7 @@ This repository contains a comprehensive collection of bash scripts encompassing
 
 
 General
+
 What does RTFM mean?
 What is a Shebang
 What is the Shell
@@ -14,7 +15,9 @@ What is the shell
 What is the difference between a terminal and a shell
 What is the shell prompt
 How to use the history (the basics)
+
 Navigation
+
 What do the commands or built-ins cd, pwd, ls do
 How to navigate the filesystem
 What are the . and .. directories
