@@ -1,0 +1,2 @@
+#!/bin/bash
+echi $(printf "%X\n" $DECIMAL)
