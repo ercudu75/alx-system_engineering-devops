@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#pid of this script
+
+echo $BASHPID
