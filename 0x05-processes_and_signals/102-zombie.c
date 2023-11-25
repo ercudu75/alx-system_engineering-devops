@@ -24,6 +24,7 @@ int infinite_while(void)
 int main(void)
 {
 	int i, pid;
+	int status = 0;
 
 	for (i = 0; i < 5; i++)
 	{
@@ -36,7 +37,7 @@ int main(void)
 			exit(0);
 		}
 		else
-			sleep(0.5);
+			wait(&status);
 	}
 	infinite_while();
 	return (0);
