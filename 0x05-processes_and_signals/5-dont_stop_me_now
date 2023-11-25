@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+#kill pid of a process
+
+kill_proc=$(pgrep -a "bash" | grep "4-to_infinity" | cut -d " " -f1)
+if [ -n "$kill_proc" ];
+then
+	kill "$kill_proc"
+fi
