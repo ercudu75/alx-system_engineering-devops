@@ -5,7 +5,6 @@ apt-get update
 apt-get install nginx -y
 
 echo 'Hello World!' > /var/www/html/index.html
-echo "Ceci n'est pas une page" > /var/www/html/404.html
 printf %s "server {
     listen 80;
     listen [::]:80;
